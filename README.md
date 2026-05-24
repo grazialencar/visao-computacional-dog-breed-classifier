@@ -7,6 +7,16 @@
 
 ---
 
+---
+
+## Demonstração do Projeto
+
+📹 Assista ao vídeo demonstrativo no YouTube:
+
+👉 https://youtu.be/XvOyROcUJMQ
+
+---
+
 ## Sobre o Projeto
 
 Classificador de raças de cães usando **Visão Computacional** com **YOLOv8**, capaz de identificar **10 raças** a partir da câmera em tempo real, com output visual sobreposto via **OpenCV**.
@@ -119,3 +129,17 @@ Cor da barra:
 - Expansão do dataset com mais raças
 
 ---
+
+## Referência Bibliográfica
+
+Este projeto também utilizou como base de pesquisa o seguinte artigo acadêmico relacionado à Visão Computacional e Deep Learning:
+
+**MORAIS, M. R. A. A.**
+*Aplicações de Visão Computacional e Inteligência Artificial na Classificação de Imagens.*
+Universidade Federal da Paraíba (UFPB), 2025.
+
+Disponível em:
+https://repositorio.ufpb.br/jspui/bitstream/123456789/34572/1/MRAA29052025%20-%20MV529.pdf
+
+---
+
