@@ -60,7 +60,7 @@ dog-breed-classifier/
 
 ---
 
-## ⚙️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 | Tecnologia | Função |
 |------------|--------|
@@ -71,7 +71,7 @@ dog-breed-classifier/
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 
 **1.** Clique no badge **Open in Colab** no topo deste README
 
@@ -93,7 +93,7 @@ dog-breed-classifier/
 
 ---
 
-## 📊 Resultado Esperado
+## Resultado Esperado
 
 Após capturar a foto pela webcam, o output visual exibe:
 
@@ -113,7 +113,7 @@ Cor da barra:
 
 ---
 
-## 📡 Próximos Passos (Sprints Futuros)
+## Próximos Passos (Sprints Futuros)
 
 - Dashboard em tempo real via protocolo MQTT
 - Expansão do dataset com mais raças
